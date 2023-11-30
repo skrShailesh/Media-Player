@@ -25,7 +25,8 @@ public class HelloController implements Initializable {
     private String filePath;
 
     @FXML
-    protected void onHelloButtonClick(ActionEvent event) {
+    protected void onHelloButtonClick(ActionEvent event)
+    {
         FileChooser fileChooser= new FileChooser();
         FileChooser.ExtensionFilter filter= new FileChooser.ExtensionFilter("Select a File(*.mp4)","*.mp4");
         fileChooser.getExtensionFilters().add(filter);
@@ -48,8 +49,43 @@ public class HelloController implements Initializable {
         }
     }
 
+    @FXML
+    protected void pauseVideo(ActionEvent event){
+        mediaPlayer.pause();
+    }
+    @FXML
+    protected void playVideo(ActionEvent event){
+        mediaPlayer.play();
+    }
+    @FXML
+    protected void stopVideo(ActionEvent event){
+        mediaPlayer.stop();
+    }
+    @FXML
+    protected void fastVideo(ActionEvent event){
+        mediaPlayer.setRate(1.5);
+    }
+    @FXML
+    protected void fasterVideo(ActionEvent event){
+        mediaPlayer.setRate(2.0);
+    }
+    @FXML
+    protected void slowVideo(ActionEvent event){
+        mediaPlayer.setRate(.75);
+    }
+    @FXML
+    protected void slowerVideo(ActionEvent event){
+        mediaPlayer.setRate(.5);
+    }
+    @FXML
+    protected void exitVideo(ActionEvent event){
+        System.exit(0);
+    }
+
+
     @Override
-    public void initialize(URL url, ResourceBundle resourceBundle) {
+    public void initialize(URL url, ResourceBundle resourceBundle)
+    {
 
     }
 }
