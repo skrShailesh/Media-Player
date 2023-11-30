@@ -10,6 +10,7 @@ module com.example.mediaplayer {
     requires org.kordamp.bootstrapfx.core;
   //  requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires javafx.media;
 
     opens com.example.mediaplayer to javafx.fxml;
     exports com.example.mediaplayer;
