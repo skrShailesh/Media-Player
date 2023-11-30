@@ -1,5 +1,7 @@
 package com.example.mediaplayer;
 
+import javafx.beans.binding.Bindings;
+import javafx.beans.property.DoubleProperty;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
@@ -34,6 +36,13 @@ public class HelloController implements Initializable {
             Media media = new Media(filePath);
             mediaPlayer = new MediaPlayer(media);
             mediaView.setMediaPlayer(mediaPlayer);
+            DoubleProperty width = mediaView.fitWidthProperty();
+            DoubleProperty height = mediaView.fitHeightProperty();
+
+            width.bind(Bindings.selectDouble(mediaView.sceneProperty(),"width"));
+            height.bind(Bindings.selectDouble(mediaView.sceneProperty(),"height"));
+
+
             mediaPlayer.play();
 
         }
