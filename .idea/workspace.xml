@@ -5,7 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="179855f7-cea8-4bb8-8027-803709b060eb" name="Changes" comment="Added bottons like play ,pause,stop ,etc">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/MuteButton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/media-eject..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/openfolder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/playback-pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/playback-start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/playback-stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/record.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/seek-backward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/seek-forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/skip-backward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/skip-forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/MuteButton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/media-eject..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/openfolder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/playback-pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/playback-start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/playback-stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/record.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/seek-backward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/seek-forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/skip-backward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/skip-forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +83,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Android Devlopment/Android Projects/Media-Player/src/main/java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Android Devlopment\Android Projects\Media-Player\src\main\java" />
+      <recent name="D:\Android Devlopment\Android Projects\Media-Player\src\main\resources\com\example\mediaplayer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Android Devlopment\Android Projects\Media-Player\src\main\resources" />
+      <recent name="D:\Android Devlopment\Android Projects\Media-Player\src\main\java\com\example\mediaplayer" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.mediaplayer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.mediaplayer.HelloApplication" />
+      <module name="Media-Player" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mediaplayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -106,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701368891844</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added bottons like play ,pause,stop ,etc">
+      <option name="closed" value="true" />
+      <created>1701369118576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701369118576</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

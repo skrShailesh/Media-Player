@@ -56,6 +56,7 @@ public class HelloController implements Initializable {
     @FXML
     protected void playVideo(ActionEvent event){
         mediaPlayer.play();
+        mediaPlayer.setRate(1);
     }
     @FXML
     protected void stopVideo(ActionEvent event){
