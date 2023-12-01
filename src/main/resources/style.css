@@ -19,6 +19,15 @@
     -fx-opacity: 1;
 }
 
+.StackPane {
+  width: 600px;
+  height: 100px;
+  background-color: #3498db;
+  border-radius: 320px;
+  padding: 100px;
+}
+
+
 
 #openFile {
        -fx-background-image:url("com/example/mediaplayer/images/openfolder.png");

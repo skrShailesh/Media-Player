@@ -4,34 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179855f7-cea8-4bb8-8027-803709b060eb" name="Changes" comment="Added bottons like play ,pause,stop ,etc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/MuteButton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/media-eject..png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/openfolder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/playback-pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/playback-start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/playback-stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/record.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/seek-backward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/seek-forward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/skip-backward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/imagess/skip-forward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/MuteButton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/media-eject..png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/openfolder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/playback-pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/playback-start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/playback-stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/record.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/seek-backward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/seek-forward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/skip-backward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/images/skip-forward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/style.css" afterDir="false" />
+    <list default="true" id="179855f7-cea8-4bb8-8027-803709b060eb" name="Changes" comment="css added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/HelloApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mediaplayer/HelloController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,13 +152,22 @@
       <option name="project" value="LOCAL" />
       <updated>1701369118576</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="css added">
+      <option name="closed" value="true" />
+      <created>1701427993450</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701427993450</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="StackPlane,MediaView,VBox,HBox added" />
     <MESSAGE value="sceneProperty added" />
     <MESSAGE value="Added bottons like play ,pause,stop ,etc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added bottons like play ,pause,stop ,etc" />
+    <MESSAGE value="css added" />
+    <option name="LAST_COMMIT_MESSAGE" value="css added" />
   </component>
 </project>
