@@ -66,8 +66,11 @@
                </StackPane.margin></MediaView>
             <Slider fx:id="seekSlider" StackPane.alignment="BOTTOM_CENTER">
                <StackPane.margin>
-                  <Insets bottom="30.0" />
+                  <Insets bottom="5.0" />
                </StackPane.margin>
+               <padding>
+                  <Insets bottom="5.0" />
+               </padding>
             </Slider>
          </children>
       </StackPane>
