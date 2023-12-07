@@ -1,3 +1,8 @@
+
+
+
+
+
 .button {
     -fx-background-color: transparent;
 }
@@ -20,14 +25,16 @@
 }
 
 
-#slider {
+/*#slider {
     -fx-opacity: 0;
 }
 #slider:hover {
     -fx-opacity: 1;
-}
+}*/
 
 
+
+/*
 .StackPane {
   width: 600px;
   height: 100px;
@@ -35,6 +42,7 @@
   border-radius: 320px;
   padding: 100px;
 }
+*/
 
 
 
@@ -91,4 +99,10 @@
        -fx-background-size: 30 30;
        -fx-background-repeat: no-repeat;
        -fx-background-position: center;
+}
+
+#exitButton {
+border: 4px solid;
+width: 30px;
+height: 20px;
 }

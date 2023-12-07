@@ -1,0 +1,85 @@
+.button {
+    -fx-background-color: transparent;
+}
+
+#menuBar {
+    -fx-opacity: 0.1;
+}
+
+#menuBar:hover {
+    -fx-opacity: 1.0;
+    -fx-resize: none;
+
+}
+
+#seekSlider {
+    -fx-opacity: 0;
+}
+#seekSlider:hover {
+    -fx-opacity: 1;
+}
+
+.StackPane {
+  width: 600px;
+  height: 100px;
+  background-color: #3498db;
+  border-radius: 320px;
+  padding: 100px;
+}
+
+
+
+#openFile {
+       -fx-background-image:url("com/example/mediaplayer/images/openfolder.png");
+       -fx-background-size: 30 30;
+       -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+
+}
+#playButton{
+    -fx-background-image: url("com/example/mediaplayer/images/playback-start.png");
+    -fx-background-size: 30 30;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#pauseButton {
+       -fx-background-image:url("com/example/mediaplayer/images/playback-pause.png");
+       -fx-background-size: 30 30;
+       -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+}
+
+#stopButton {
+       -fx-background-image:url("com/example/mediaplayer/images/playback-stop.png");
+       -fx-background-size: 30 30;
+       -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+}
+
+#slowerVideo {
+       -fx-background-image:url("com/example/mediaplayer/images/skip-backward.png");
+       -fx-background-size: 30 30;
+       -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+}
+
+#slowVideo {
+       -fx-background-image:url("com/example/mediaplayer/images/seek-backward.png");
+       -fx-background-size: 30 30;
+       -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+}
+
+#fastVideo {
+       -fx-background-image:url("com/example/mediaplayer/images/seek-forward.png");
+       -fx-background-size: 30 30;
+       -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+}
+#fasterVideo {
+       -fx-background-image:url("com/example/mediaplayer/images/skip-forward.png");
+       -fx-background-size: 30 30;
+       -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+}

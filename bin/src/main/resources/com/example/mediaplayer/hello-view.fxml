@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.media.MediaView?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" stylesheets="@../../../style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.mediaplayer.HelloController">
+   <bottom>
+      <VBox alignment="CENTER" prefHeight="40.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox alignment="CENTER" prefHeight="40.0">
+               <children>
+                  <Button fx:id="openFile" mnemonicParsing="false" onAction="#onHelloButtonClick" prefHeight="20.0" prefWidth="30.0">
+                     <HBox.margin>
+                        <Insets right="20.0" />
+                     </HBox.margin></Button>
+                  <Button fx:id="playButton" mnemonicParsing="false" onAction="#playVideo" prefHeight="30.0" prefWidth="30.0" text="Play">
+                     <HBox.margin>
+                        <Insets right="7.0" />
+                     </HBox.margin></Button>
+                  <Button fx:id="pauseButton" mnemonicParsing="false" onAction="#pauseVideo" prefHeight="30.0" prefWidth="30.0" text="Pause">
+                     <HBox.margin>
+                        <Insets right="7.0" />
+                     </HBox.margin></Button>
+                  <Button fx:id="stopButton" mnemonicParsing="false" onAction="#stopVideo" prefHeight="30.0" prefWidth="30.0" text="Stop">
+                     <HBox.margin>
+                        <Insets right="15.0" />
+                     </HBox.margin></Button>
+                  <Button fx:id="slowerVideo" mnemonicParsing="false" onAction="#slowerVideo" prefHeight="30.0" prefWidth="30.0" text="&lt;&lt;">
+                     <HBox.margin>
+                        <Insets right="2.0" />
+                     </HBox.margin></Button>
+                  <Button fx:id="slowVideo" mnemonicParsing="false" onAction="#slowVideo" prefHeight="30.0" prefWidth="30.0" text="&lt;">
+                     <HBox.margin>
+                        <Insets right="2.0" />
+                     </HBox.margin></Button>
+                  <Button fx:id="fastVideo" mnemonicParsing="false" onAction="#fastVideo" prefHeight="30.0" prefWidth="30.0" text="&gt;">
+                     <HBox.margin>
+                        <Insets right="2.0" />
+                     </HBox.margin></Button>
+                  <Button fx:id="fasterVideo" mnemonicParsing="false" onAction="#fasterVideo" prefHeight="30.0" prefWidth="30.0" text="&gt;&gt;" />
+                  <Button fx:id="exitButton" mnemonicParsing="false" onAction="#exitVideo" prefHeight="20.0" prefWidth="35.0" text="Exit">
+                     <HBox.margin>
+                        <Insets left="20.0" />
+                     </HBox.margin></Button>
+                  <Slider fx:id="slider" prefHeight="2.0" prefWidth="80.0">
+                     <HBox.margin>
+                        <Insets left="20.0" />
+                     </HBox.margin>
+                  </Slider>
+               </children></HBox>
+         </children>
+      </VBox>
+   </bottom>
+   <center>
+      <StackPane prefHeight="150.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <MediaView fx:id="mediaView" fitHeight="200.0" fitWidth="200.0" StackPane.alignment="CENTER">
+               <StackPane.margin>
+                  <Insets bottom="40.0" />
+               </StackPane.margin></MediaView>
+            <Slider fx:id="seekSlider" layoutY="25.0" prefHeight="1.0" StackPane.alignment="BOTTOM_CENTER">
+               <StackPane.margin>
+                  <Insets bottom="5.0" />
+               </StackPane.margin>
+            </Slider>
+         </children>
+      </StackPane>
+   </center>
+</BorderPane>

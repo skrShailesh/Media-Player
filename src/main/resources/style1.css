@@ -1,0 +1,23 @@
+/* style.css */
+
+/* CSS code for the slider */
+#slider {
+    -fx-opacity: 0;
+}
+#slider:hover {
+    -fx-opacity: 1;
+}
+
+
+.slider-container {
+    position: relative;
+}
+
+.slider {
+    margin-left: -50%; /* Initially hide the slider to the left */
+    transition: margin-left 10s ease; /* Add smooth transition effect */
+}
+
+.slider-container:hover .slider {
+    margin-left: 4; /* Move the slider to the right when container is hovered */
+}

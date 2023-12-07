@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Media-Player:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="179855f7-cea8-4bb8-8027-803709b060eb" name="Changes" comment="slider adjusted">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Media_Player_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;skrShailesh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="82cb2898-0f84-4efd-8d32-46669e479716" />
+        <option name="url" value="https://github.com/skrShailesh/Media-Player.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YsxpLBPXKKhYiFlLhGTq3GAr86" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Android Devlopment/Android Projects/Media-Player/src/main/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Android Devlopment\Android Projects\Media-Player\src\main\java" />
+      <recent name="D:\Android Devlopment\Android Projects\Media-Player\src\main\resources\com\example\mediaplayer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Android Devlopment\Android Projects\Media-Player\src\main\resources" />
+      <recent name="D:\Android Devlopment\Android Projects\Media-Player\src\main\java\com\example\mediaplayer" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.mediaplayer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.Media-Player.jar">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.mediaplayer.HelloApplication" />
+      <module name="Media-Player" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mediaplayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Media-Player.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Media_Player_jar/Media-Player.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Media-Player.jar" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="179855f7-cea8-4bb8-8027-803709b060eb" name="Changes" comment="" />
+      <created>1701328270084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701328270084</updated>
+    </task>
+    <task id="LOCAL-00001" summary="StackPlane,MediaView,VBox,HBox added">
+      <option name="closed" value="true" />
+      <created>1701352183968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701352183968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sceneProperty added">
+      <option name="closed" value="true" />
+      <created>1701354222944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701354222944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added bottons like play ,pause,stop ,etc">
+      <option name="closed" value="true" />
+      <created>1701367665390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701367665390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added bottons like play ,pause,stop ,etc">
+      <option name="closed" value="true" />
+      <created>1701368891844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701368891844</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added bottons like play ,pause,stop ,etc">
+      <option name="closed" value="true" />
+      <created>1701369118576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701369118576</updated>
+    </task>
+    <task id="LOCAL-00006" summary="css added">
+      <option name="closed" value="true" />
+      <created>1701427993450</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701427993450</updated>
+    </task>
+    <task id="LOCAL-00007" summary="full screen mode added">
+      <option name="closed" value="true" />
+      <created>1701435228973</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701435228973</updated>
+    </task>
+    <task id="LOCAL-00008" summary="slider adjusted">
+      <option name="closed" value="true" />
+      <created>1701512446086</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701512446086</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="StackPlane,MediaView,VBox,HBox added" />
+    <MESSAGE value="sceneProperty added" />
+    <MESSAGE value="Added bottons like play ,pause,stop ,etc" />
+    <MESSAGE value="css added" />
+    <MESSAGE value="full screen mode added" />
+    <MESSAGE value="slider adjusted" />
+    <option name="LAST_COMMIT_MESSAGE" value="slider adjusted" />
+  </component>
+</project>
