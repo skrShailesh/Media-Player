@@ -11,8 +11,9 @@
   <component name="ChangeListManager">
     <list default="true" id="179855f7-cea8-4bb8-8027-803709b060eb" name="Changes" comment="volume button css atached">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/mediaplayer/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Media_Player_jar/Media-Player.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Media_Player_jar/Media-Player.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/style1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

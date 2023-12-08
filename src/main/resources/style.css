@@ -18,7 +18,7 @@
 }
 
 #seekSlider {
-    -fx-opacity: 0;
+    -fx-opacity: 1;
 }
 #seekSlider:hover {
     -fx-opacity: 1;
