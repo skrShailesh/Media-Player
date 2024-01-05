@@ -3,12 +3,12 @@
 <li>This JavaFX application, named MediaPlayer, provides a simple yet powerful media player interface. 
 <br><li>It allows users to play, pause, stop, and control the playback speed of video files.
 <br><li>The application supports various media formats, focusing primarily on MP4 files.
-
+  
 ## Features
-<li>Media Controls: Play, pause, and stop video playback.
-<br><li>Playback Speed Control: Adjust the speed of video playback with options for slower, slow, fast, and faster speeds.
-<br><li>Full-Screen Mode: Double-click on the video player to toggle full-screen mode.
-<br><li>Volume Control: Use the slider to adjust the volume of the video.
+<li>🎥 Media Controls: Play, pause, and stop your videos with intuitive controls.
+<br><li>⏩ Playback Speed Control: Tailor your viewing experience with speed adjustment options.
+<br><li>🔊 Volume Control: Easily adjust the volume using the provided slider.
+<br><li>🖥️ Full-Screen Mode: Immerse yourself in your videos by toggling full-screen mode with a double-click.
 
 # Technologies Used
 <li> <b>JavaFX :</b>  The application is built using JavaFX, providing a rich set of tools for building desktop applications with a modern UI.
